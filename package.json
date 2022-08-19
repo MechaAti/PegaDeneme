@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "name": "pegadeneme",
+  "version": "0.0.1",
+  "main": "deneme.js",
+  "scripts": {
+    "test": "node deneme.js"
+  },
+  "author": "MechaAti",
+  "license": "ISC",
+  "description": ""
+}
